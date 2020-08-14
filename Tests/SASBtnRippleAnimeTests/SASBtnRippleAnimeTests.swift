@@ -6,7 +6,7 @@ final class SASBtnRippleAnimeTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SASBtnRippleAnime().text, "Hello, World!")
+       // XCTAssertEqual(SASBtnRippleAnime().text, "Hello, World!")
     }
 
     static var allTests = [
